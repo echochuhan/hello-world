@@ -1,4 +1,4 @@
 # hello-world
 Just  another repository
 One file
-zhang han is chu hemng's wife.
+zh is chm's wife.
